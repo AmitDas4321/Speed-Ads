@@ -36,9 +36,7 @@ Speed Ads is a Chrome extension designed to enhance your YouTube experience by a
 
 ## Chrome Extension Link
 
-Install Speed Ads from the [Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id).
-
-*Replace `your-extension-id` with the actual extension ID or URL from the Chrome Web Store.*
+Install Speed Ads from the [Chrome Web Store](https://chromewebstore.google.com/detail/speed-ads/bdolpphpmkmjmgafmipimhfemconnfgb).
 
 ---
 
