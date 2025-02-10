@@ -27,8 +27,6 @@ Speed Ads is a Chrome extension designed to enhance your YouTube experience by a
 ### Popup Interface
 ![Popup Interface](screenshots/popup-interface.png)
 
-### About Page
-![About Page](screenshots/about-page.png)
 
 *Note: Place your screenshot images in the `screenshots` folder in your repository or update the paths accordingly.*
 
