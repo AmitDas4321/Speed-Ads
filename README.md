@@ -25,8 +25,20 @@ Speed Ads is a Chrome extension designed to enhance your YouTube experience by a
 ## Screenshots
 
 ### Popup Interface
+![Popup Interface](screenshots/popup-interface.png)
 
 ### About Page
+![About Page](screenshots/about-page.png)
+
+*Note: Place your screenshot images in the `screenshots` folder in your repository or update the paths accordingly.*
+
+---
+
+## Chrome Extension Link
+
+Install Speed Ads from the [Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id).
+
+*Replace `your-extension-id` with the actual extension ID or URL from the Chrome Web Store.*
 
 ---
 
@@ -38,7 +50,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 ---
 
